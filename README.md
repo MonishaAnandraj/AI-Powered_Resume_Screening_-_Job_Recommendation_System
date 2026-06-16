@@ -81,13 +81,13 @@ AI-Resume-Screening-System/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/AI-Resume-Screening-System.git
+https://github.com/MonishaAnandraj/AI-Powered_Resume_Screening_-_Job_Recommendation_System.git
 ```
 
 ### Navigate to Project Directory
 
 ```bash
-cd AI-Resume-Screening-System
+cd AI-Powered_Resume_Screening_-_Job_Recommendation_System
 ```
 
 ### Install Dependencies
@@ -138,18 +138,22 @@ The application provides:
 
 ### Home Page
 
-![Home Page](screenshots/SS1.png)
+![Home Page](Screenshots/SS1.png)
 
 ### ATS Match Score
 
-![ATS Score](screenshots/SS2.png)
-
-### Skills Analysis
-
-![Skills](screenshots/SS3.png)
+![ATS Score](Screenshots/SS2.png)
 
 ### Job Recommendations
 
-![Recommendations](screenshots/SS4.png)
+![Recommendations](Screenshots/SS3.png)
+
+### Performance Matrics
+
+![PerformanceMatrics](Screenshots/SS4.png)
+
+### Word Clouds 
+
+![WordCloud](Screenshots/SS5.png)
 
 ---
